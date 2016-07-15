@@ -7,7 +7,7 @@ to run:
 1. install node
 2. run anagramFinder.js like so:
 
-    node anagramFinder.js some words 6
+    `node anagramFinder.js some words 6`
 
 The program will find anagrams of all the words after "anagramFinder.js"
 
